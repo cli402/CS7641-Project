@@ -7,6 +7,6 @@
 
 #####Some results of the project 
 
-![image](https://{https://cloud.githubusercontent.com/assets/11344309/13301468/13dd38b0-db13-11e5-85ca-cd6bd24649ba.png})
-![image](https://{https://cloud.githubusercontent.com/assets/11344309/13301485/29cea3b6-db13-11e5-8f68-0d1f0022b381.png})
-![image](https://{https://cloud.githubusercontent.com/assets/11344309/13301490/2c8ee020-db13-11e5-8a08-f604aa77b902.png})
+![image](https://cloud.githubusercontent.com/assets/11344309/13301468/13dd38b0-db13-11e5-85ca-cd6bd24649ba.png)
+![image](https://cloud.githubusercontent.com/assets/11344309/13301485/29cea3b6-db13-11e5-8f68-0d1f0022b381.png)
+![image](https://cloud.githubusercontent.com/assets/11344309/13301490/2c8ee020-db13-11e5-8a08-f604aa77b902.png)
